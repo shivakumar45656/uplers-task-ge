@@ -23,14 +23,15 @@ Code is in www folder, most logics in www/src folder
 
 www
    src/
-     |-- models/   ---> All Models db access logic
-     |-- middleware/  --> Security related things for middlewares
+     |-- models/   
+     |-- middleware/ 
      |-- routes/  
      |-- services/
-     |-- utilities/ ---> Common logics required multiple entities like controllers, services..etc
-     |-- views/ --> client facing UI elements
+     |-- utilities/
+     |-- views/
     autoloader.php
     index.php
+    .htaccess
 
 ## Note  to Reviewer
 
