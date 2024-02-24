@@ -7,7 +7,7 @@ For detailed instructions on installing and setting up the project, please refer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/shivakumar45656/uplers-task-ge.git
 
 
 ## Status
