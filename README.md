@@ -23,9 +23,9 @@ Code is in www folder, most logics in www/src folder
 
 www
    src/
-     |-- models/   
-     |-- middleware/ 
-     |-- routes/  
+     |-- models/
+     |-- middleware/
+     |-- routes/
      |-- services/
      |-- utilities/
      |-- views/
