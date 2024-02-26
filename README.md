@@ -7,7 +7,9 @@ For detailed instructions on installing and setting up the project, please refer
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/shivakumar45656/uplers-task-ge.git
+
+
 
 
 ## Status
@@ -17,20 +19,17 @@ For detailed instructions on installing and setting up the project, please refer
 
 ## Code Location
 
-Code is in www folder, most logics in www/src folder
+Code should be placed in www folder of the docker-compose-lamp-master folder incase above docker setup is being used
 
 ## Repo structure
 
-www
    src/
-     |-- models/   ---> All Models db access logic
-     |-- middleware/  --> Security related things for middlewares
-     |-- routes/  
+     |-- models/
+     |-- middleware/
+     |-- routes/
      |-- services/
-     |-- utilities/ ---> Common logics required multiple entities like controllers, services..etc
-     |-- views/ --> client facing UI elements
-    autoloader.php
-    index.php
+     |-- utilities/ 
+     |-- views/ 
 
 ## Note  to Reviewer
 
