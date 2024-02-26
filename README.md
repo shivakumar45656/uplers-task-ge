@@ -10,8 +10,6 @@ For detailed instructions on installing and setting up the project, please refer
    git clone https://github.com/shivakumar45656/uplers-task-ge.git
 
 
-
-
 ## Status
 
 1. Not a complete Project, only a small part is developed 
